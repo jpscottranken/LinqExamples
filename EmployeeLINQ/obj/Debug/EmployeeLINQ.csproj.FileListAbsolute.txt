@@ -1,0 +1,15 @@
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\EmployeeLINQ\bin\Debug\EmployeeLINQ.exe.config
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\EmployeeLINQ\bin\Debug\EmployeeLINQ.exe
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\EmployeeLINQ\bin\Debug\EmployeeLINQ.pdb
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\EmployeeLINQ\obj\Debug\EmployeeLINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\EmployeeLINQ\obj\Debug\EmployeeLINQ.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\EmployeeLINQ\obj\Debug\EmployeeLINQ.exe
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\EmployeeLINQ\obj\Debug\EmployeeLINQ.pdb
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\EmployeeLINQ\obj\Debug\EmployeeLINQ.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\LinqExamples\EmployeeLINQ\bin\Debug\EmployeeLINQ.exe.config
+C:\Users\jpscott\Desktop\LinqExamples\EmployeeLINQ\bin\Debug\EmployeeLINQ.exe
+C:\Users\jpscott\Desktop\LinqExamples\EmployeeLINQ\bin\Debug\EmployeeLINQ.pdb
+C:\Users\jpscott\Desktop\LinqExamples\EmployeeLINQ\obj\Debug\EmployeeLINQ.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\LinqExamples\EmployeeLINQ\obj\Debug\EmployeeLINQ.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\LinqExamples\EmployeeLINQ\obj\Debug\EmployeeLINQ.exe
+C:\Users\jpscott\Desktop\LinqExamples\EmployeeLINQ\obj\Debug\EmployeeLINQ.pdb

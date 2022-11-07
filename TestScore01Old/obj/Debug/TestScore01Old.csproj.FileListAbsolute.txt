@@ -1,0 +1,15 @@
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\TestScore01Old\bin\Debug\TestScore01Old.exe.config
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\TestScore01Old\bin\Debug\TestScore01Old.exe
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\TestScore01Old\bin\Debug\TestScore01Old.pdb
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\TestScore01Old\obj\Debug\TestScore01Old.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\TestScore01Old\obj\Debug\TestScore01Old.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\TestScore01Old\obj\Debug\TestScore01Old.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\TestScore01Old\obj\Debug\TestScore01Old.exe
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\TestScore01Old\obj\Debug\TestScore01Old.pdb
+C:\Users\jpscott\Desktop\LinqExamples\TestScore01Old\bin\Debug\TestScore01Old.exe.config
+C:\Users\jpscott\Desktop\LinqExamples\TestScore01Old\bin\Debug\TestScore01Old.exe
+C:\Users\jpscott\Desktop\LinqExamples\TestScore01Old\bin\Debug\TestScore01Old.pdb
+C:\Users\jpscott\Desktop\LinqExamples\TestScore01Old\obj\Debug\TestScore01Old.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\LinqExamples\TestScore01Old\obj\Debug\TestScore01Old.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\LinqExamples\TestScore01Old\obj\Debug\TestScore01Old.exe
+C:\Users\jpscott\Desktop\LinqExamples\TestScore01Old\obj\Debug\TestScore01Old.pdb

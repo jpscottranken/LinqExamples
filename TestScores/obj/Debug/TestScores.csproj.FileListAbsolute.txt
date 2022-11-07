@@ -1,0 +1,8 @@
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\TestScores\bin\Debug\TestScores.exe.config
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\TestScores\bin\Debug\TestScores.exe
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\TestScores\bin\Debug\TestScores.pdb
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\TestScores\obj\Debug\TestScores.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\TestScores\obj\Debug\TestScores.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\TestScores\obj\Debug\TestScores.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\TestScores\obj\Debug\TestScores.exe
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\TestScores\obj\Debug\TestScores.pdb

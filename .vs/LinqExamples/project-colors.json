@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8fd50eb2-8830-4821-97b4-3a5a1461ce60": {
+      "ProjectGuid": "8fd50eb2-8830-4821-97b4-3a5a1461ce60",
+      "DisplayName": "TestScores02LINQ",
+      "ColorIndex": 0
+    },
+    "3f6877ad-32d2-4e82-97e4-9816d683a10e": {
+      "ProjectGuid": "3f6877ad-32d2-4e82-97e4-9816d683a10e",
+      "DisplayName": "TestScore01Old",
+      "ColorIndex": 1
+    },
+    "32434e85-3ee0-4672-989e-8a6051a5082f": {
+      "ProjectGuid": "32434e85-3ee0-4672-989e-8a6051a5082f",
+      "DisplayName": "EmployeeLINQ",
+      "ColorIndex": 2
+    },
+    "411c167a-6529-49ca-8987-7444e74fc9c2": {
+      "ProjectGuid": "411c167a-6529-49ca-8987-7444e74fc9c2",
+      "DisplayName": "LINQWithACollection",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

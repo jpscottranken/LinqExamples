@@ -1,0 +1,15 @@
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\LINQWithACollection\obj\Debug\LINQWithACollection.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\LINQWithACollection\obj\Debug\LINQWithACollection.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\LINQWithACollection\obj\Debug\LINQWithACollection.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\LINQWithACollection\bin\Debug\LINQWithACollection.exe.config
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\LINQWithACollection\bin\Debug\LINQWithACollection.exe
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\LINQWithACollection\bin\Debug\LINQWithACollection.pdb
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\LINQWithACollection\obj\Debug\LINQWithACollection.exe
+C:\Users\jpscott\Desktop\LINQ\LinqExamples\LINQWithACollection\obj\Debug\LINQWithACollection.pdb
+C:\Users\jpscott\Desktop\LinqExamples\LINQWithACollection\bin\Debug\LINQWithACollection.exe.config
+C:\Users\jpscott\Desktop\LinqExamples\LINQWithACollection\bin\Debug\LINQWithACollection.exe
+C:\Users\jpscott\Desktop\LinqExamples\LINQWithACollection\bin\Debug\LINQWithACollection.pdb
+C:\Users\jpscott\Desktop\LinqExamples\LINQWithACollection\obj\Debug\LINQWithACollection.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\LinqExamples\LINQWithACollection\obj\Debug\LINQWithACollection.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\LinqExamples\LINQWithACollection\obj\Debug\LINQWithACollection.exe
+C:\Users\jpscott\Desktop\LinqExamples\LINQWithACollection\obj\Debug\LINQWithACollection.pdb
